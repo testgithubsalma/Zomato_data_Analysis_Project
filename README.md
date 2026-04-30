@@ -36,10 +36,12 @@ Discovered popular cuisines in different cities
 Highlighted areas with high restaurant density
 
 # 🛠️ Tech Stack
-Layer	Tools Used
-Data Cleaning	SQL
-Visualization	Power BI
-Dataset	Zomato Dataset
+
+| 🧩 Layer        | ⚙️ Tools Used     |
+|----------------|------------------|
+| 🧹 Data Cleaning | SQL              |
+| 📊 Visualization | Power BI         |
+| 📁 Dataset       | Zomato Dataset   |
 
 # 📌 Conclusion
 
